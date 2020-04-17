@@ -1,0 +1,32 @@
+h1{
+    text-align: left;
+    color: purple;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+
+  h2{
+    text-align: left;
+    color: navy;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: solid;
+  }
+
+  h3{
+    text-align: left;
+    color: green;
+    font-weight: bold;
+    border-radius: 10px;
+    border-style: dotted;
+  }
+
+body {
+    background-color: lightblue;
+    }
+
+p {
+    text-align: center;
+    color: purple
+}
+
